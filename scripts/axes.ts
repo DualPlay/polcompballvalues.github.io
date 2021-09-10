@@ -1,7 +1,7 @@
 //Seriousposting axis (Sincerity vs Irony)
 let spos_array: Array<string> = ["Austere", "Ascetic", "Sombre", "Genuine", "Rational", "Sober", "Lighthearted", "Memey", "Playful", "Silly", "Incoherent"]
 //Allegiance axis (Jannyphobe vs Jannyphile)
-let alle_array: Array<string> = ["Dyktator", "Autorytarysta", "Promoderacjonista", "Fobia na administrację", "Antyantymoderacjonizm",  "Centrum", "Liberalista", "Fanatyk Moderacji", "Antymoderacjonista", "Rewolucjonista", "Anarchista"];
+let alle_array: Array<string> = ["Anarchista", "Rewolucjonista", "Antymoderacjonista", "Fanatyk Moderacji", "Liberalista",  "Centrum", "Antyantymoderacjonizm", "Fobia na administrację", "Promoderacjonista", "Autorytarysta", "Dyktator"]
 //Experience axis (Veteran vs Newbie)
 let expr_array: Array<string> = ["Primordial", "Ancient", "Historical", "Former", "Time-honored", "Reminiscent", "Apprentice", "Contemporary", "Missed Out", "Uninformed", "Novice"]
 //Personality axis (Wholesome vs Edgy)
@@ -15,7 +15,7 @@ let shwr_array: Array<string> = ["Apolitical", "Uncaring", "Ordinary", "Moderate
 //Sanity axis (Boring vs Schizo)
 let sani_array: Array<string> = ["Too Normal", "Bland", "Healthy", "Sound Minded", "Tame", "Interesting", "Different", "Neurotic", "Out There", "Deranged", "a̵̒̆a̶̋͗a̶͂͠a̴͂̅a̵̔̕a̴̔͒"]
 //Relationship axis (Liked vs Disliked)
-let rela_array: Array<string> = ["Venerated", "Loved", "Admired", "Appreciated", "Respected", "No Opinion", "Mixed Feelings", "Unwanted", "Disliked", "Hated", "Abhorred"]
+let rela_array: Array<string> = ["Waifu dla innych", "Kochany przez innych", "Uwielbiany", "Lubiany", "Popierany", "Nie wiadomo", "Odrzucony", "Niechciany", "Nielubiany", "Nienawidzony", "Musi być zbanowany dla innych"]
 //Fedposting axis (Discriminatory vs Inclusive)
 let fedp_array: Array<string> = ["Zbyt bardzo uzależniony", "Uzależniony od rasizmu", "Rasista", "Toxic", "Fan Rasizmu", "Neutralność", "Antyrasista", "Pacyfista", "Nie przepada za rasizmem", "Fobia na Toksyczność", "Niszczyć Rasistów"]
 //Actions axis (Behaving vs Misbehaving)

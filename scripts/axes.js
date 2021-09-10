@@ -1,5 +1,5 @@
 var spos_array = ["Austere", "Ascetic", "Sombre", "Genuine", "Rational", "Sober", "Lighthearted", "Memey", "Playful", "Silly", "Incoherent"];
-var alle_array = ["Dyktator", "Autorytarysta", "Promoderacjonista", "Fanatyk Moderacji", "Antyantymoderacjonizm",  "Centrum", "Liberalista", "Fobia na administrację", "Antymoderacjonista", "Rewolucjonista", "Anarchista"];
+var alle_array = ["Dyktator", "Autorytarysta", "Promoderacjonista", "Fobia na administrację", "Antyantymoderacjonizm",  "Centrum", "Liberalista", "Fanatyk Moderacji", "Antymoderacjonista", "Rewolucjonista", "Anarchista"];
 var expr_array = ["Primordial", "Ancient", "Historical", "Former", "Time-honored", "Reminiscent", "Apprentice", "Contemporary", "Missed Out", "Uninformed", "Novice"];
 var pers_array = ["Angelic", "Benevolent", "Empathic", "Goodwilling", "Respectful", "Polite", "Rude", "Harsh", "Cruel", "Heartless", "Inhumane"];
 var horn_array = ["Nymphomaniac", "Decadent", "Down Bad", "Lustful", "Libertine", "Moderated", "Composed", "Pure", "Prudish", "Restrained", "Overprotective"];

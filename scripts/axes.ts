@@ -1,7 +1,7 @@
 //Seriousposting axis (Sincerity vs Irony)
 let spos_array: Array<string> = ["Austere", "Ascetic", "Sombre", "Genuine", "Rational", "Sober", "Lighthearted", "Memey", "Playful", "Silly", "Incoherent"]
 //Allegiance axis (Jannyphobe vs Jannyphile)
-let alle_array: Array<string> = ["Dyktator", "Autorytarysta", "Promoderacjonista", "Fanatyk Moderacji", "Antyantymoderacjonizm",  "Centrum", "Liberalista", "Fobia na administrację", "Antymoderacjonista", "Rewolucjonista", "Anarchista"];
+let alle_array: Array<string> = ["Dyktator", "Autorytarysta", "Promoderacjonista", "Fobia na administrację", "Antyantymoderacjonizm",  "Centrum", "Liberalista", "Fanatyk Moderacji", "Antymoderacjonista", "Rewolucjonista", "Anarchista"];
 //Experience axis (Veteran vs Newbie)
 let expr_array: Array<string> = ["Primordial", "Ancient", "Historical", "Former", "Time-honored", "Reminiscent", "Apprentice", "Contemporary", "Missed Out", "Uninformed", "Novice"]
 //Personality axis (Wholesome vs Edgy)

@@ -9,7 +9,7 @@
         <meta property="og:site_name" content="polcompballvalues.github.io">
         <meta property="og:title" content="PolcompballValues">
         <meta property="og:type" content="website">
-        <meta property="og:description" content="PolcompballValues a quiz aimed at members of the Polcompball community, specially the official Discord server">
+        <meta property="og:description" content="PolcompballValues quiz skierowany do członków społeczności Polcompball, w szczególności oficjalnego serwera Discord">
         <meta property="og:url" content="https://polcompballvalues.github.io/">
         <meta property="og:image" content="https://polcompballvalues.github.io/assets/previcon.png">
         <meta property="og:image:width" content="1024">
@@ -20,18 +20,18 @@
     </head>
     <body>
         <h1>PolcompballValues</h1>
-        <h2 style="text-align:center;" id="question-number">Currently loading</h2>
+        <h2 style="text-align:center;" id="question-number">Wczytywanie...</h2>
         <p class="question" id="question-text"></p>
-        <button class="button" onclick="next_question( 1.00)" id="igofurth-button">I'd Go Further</button> <br>
-        <button class="button" onclick="next_question( 0.67)" id="stragree-button">Strongly Agree</button> <br>
-        <button class="button" onclick="next_question( 0.33)" id="agree-button">Agree</button> <br>
-        <button class="button" onclick="next_question( 0.00)" id="neutral-button">Neutral/Ambivalent/Skip</button> <br>
-        <button class="button" onclick="next_question(-0.33)" id="disag-button">Disagree</button> <br>
-        <button class="button" onclick="next_question(-0.67)" id="strdisag-button">Strongly Disagree</button> <br>
-        <button class="button" onclick="next_question(-1.00)" id="thisanger-button">This Sentence Angers Me</button> <br>
+        <button class="button" onclick="next_question( 1.00)" id="igofurth-button">Zdecydowanie akceptuje</button> <br>
+        <button class="button" onclick="next_question( 0.67)" id="stragree-button">Akceptuje</button> <br>
+        <button class="button" onclick="next_question( 0.33)" id="agree-button">Akceptuje</button> <br>
+        <button class="button" onclick="next_question( 0.00)" id="neutral-button">Nie mam zdania</button> <br>
+        <button class="button" onclick="next_question(-0.33)" id="disag-button">Częściowo nieakceptuje</button> <br>
+        <button class="button" onclick="next_question(-0.67)" id="strdisag-button">Nieakceptuje</button> <br>
+        <button class="button" onclick="next_question(-1.00)" id="thisanger-button">Zdecydowanie nieakceptuje</button> <br>
         <div style="text-align: center;">
-            <button class="small_button" onclick="prev_question()" id="back_button">Back</button>
-            <button class="small_button_off" id="back_button_off">Back</button><br>    
+            <button class="small_button" onclick="prev_question()" id="back_button">Cofnij</button>
+            <button class="small_button_off" id="back_button_off">Cofnij</button><br>    
         </div>
         <script type="application/javascript" src="scripts/questions.js"></script>
         <script>

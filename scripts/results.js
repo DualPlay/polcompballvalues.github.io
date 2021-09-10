@@ -133,50 +133,50 @@ if (length === "s") {
 //Left collumn
 setBarValue("sincerity", sincerity);
 
-setBarValue("jannyphobe", jannyphobe);
+setBarValue("antymoderacjonizm", jannyphobe);
 
 setBarValue("veteran", veteran);
 
-setBarValue("wholesome", wholesome);
+setBarValue("spokojny", wholesome);
 
-setBarValue("horny", horny);
+setBarValue("zboczeniec", horny);
 
-setBarValue("active", active);
+setBarValue("aktywny", active);
 
-setBarValue("standard", standard);
+setBarValue("zwykły", standard);
 
 setBarValue("boring", boring);
 
-setBarValue("liked", liked);
+setBarValue("lubiany", liked);
 
-setBarValue("discriminatory", discriminatory);
+setBarValue("rasista", discriminatory);
 
-setBarValue("behaving", behaving);
+setBarValue("nieodpowiedzialność", behaving);
 
-setBarValue("artist", artist);
+setBarValue("artysta", artist);
 
 setBarValue("pleasant", pleasant);
 
-setBarValue("funny", funny);
+setBarValue("zabawny", funny);
 
 //Right collumn
 setBarValue("irony", irony);
 
-setBarValue("jannyphile", jannyphile);
+setBarValue("promoderacjonizm", jannyphile);
 
-setBarValue("newbie", newbie);
+setBarValue("początkujący", newbie);
 
-setBarValue("edgy", edgy);
+setBarValue("drażliwy", edgy);
 
-setBarValue("antihorny", antihorny);
+setBarValue("antyseksualny", antihorny);
 
 setBarValue("lurker", lurker);
 
-setBarValue("wacky", wacky);
+setBarValue("szalony", wacky);
 
 setBarValue("schizo", schizo);
 
-setBarValue("disliked", disliked);
+setBarValue("znienawidzony", disliked);
 
 setBarValue("inclusive", inclusive);
 

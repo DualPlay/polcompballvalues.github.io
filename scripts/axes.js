@@ -1,5 +1,5 @@
 var spos_array = ["Austere", "Ascetic", "Sombre", "Genuine", "Rational", "Sober", "Lighthearted", "Memey", "Playful", "Silly", "Incoherent"];
-var alle_array = ["Revolutionary", "Rebellious", "Opposed", "Unrested", "Populist", "Neutral", "Establishment", "Elitist", "Loyal", "Aristocratic", "Enslaved"];
+var alle_array = ["Anarchista", "Rewolucjonista", "Antymoderacjonista", "Proantymoderacjonizm", "Liberalista",  "Centrum", "Antyantymoderacjonizm", "Fanatyk Moderacji", "Promoderacjonista", "Autorytarysta", "Dyktator"];
 var expr_array = ["Primordial", "Ancient", "Historical", "Former", "Time-honored", "Reminiscent", "Apprentice", "Contemporary", "Missed Out", "Uninformed", "Novice"];
 var pers_array = ["Angelic", "Benevolent", "Empathic", "Goodwilling", "Respectful", "Polite", "Rude", "Harsh", "Cruel", "Heartless", "Inhumane"];
 var horn_array = ["Nymphomaniac", "Decadent", "Down Bad", "Lustful", "Libertine", "Moderated", "Composed", "Pure", "Prudish", "Restrained", "Overprotective"];
@@ -9,6 +9,6 @@ var sani_array = ["Too Normal", "Bland", "Healthy", "Sound Minded", "Tame", "Int
 var rela_array = ["Venerated", "Loved", "Admired", "Appreciated", "Respected", "No Opinion", "Mixed Feelings", "Unwanted", "Disliked", "Hated", "Abhorred"];
 var fedp_array = ["Glowie", "Bigoted", "Prejudicial", "Exclusive", "Biased", "Varying", "Open-minded", "Tolerant", "Accepting", "Cosmopolitan", "SJW"];
 var actn_array = ["Robotic", "Lawful", "Obedient", "Compliant", "Behaved", "Occasional", "Tripping-up", "Unruly", "Disobedient", "Chaotic", "Criminal"];
-var purp_array = ["Maestro", "Art Hero", "Aesthetic", "Artistic Focused", "Wikiredditor", "Undecided", "Member", "Conversational", "Chatty", "Talkative", "Talentless"];
+var purp_array = ["Bóg artystów", "Arcyartysta", "Artysta", "Początkujący artysta", "Fanatyk dzieł", "Neutralny", "Discordowiec", "Członek", "Nieprzepadający za dziełami", "Woli tylko czatować", "Fobia na sztukę"];
 var perc_array = ["Therapeutic", "Comforting", "Calming", "Chill", "Tolerable", "Ambivalent", "Uncomforting", "Pestering", "Obnoxious", "Infuriating", "Proof that God is testing us"];
 var cmdy_array = ["Hysterical", "Hilarious", "Humorous", "Comical", "Amusing", "Undifferentiated", "Superficial", "Unironic", "Lackluster", "Crickets", "Epitome of Boredom"];

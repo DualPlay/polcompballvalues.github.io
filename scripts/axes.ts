@@ -1,7 +1,7 @@
 //Seriousposting axis (Sincerity vs Irony)
 let spos_array: Array<string> = ["Austere", "Ascetic", "Sombre", "Genuine", "Rational", "Sober", "Lighthearted", "Memey", "Playful", "Silly", "Incoherent"]
 //Allegiance axis (Jannyphobe vs Jannyphile)
-let alle_array: Array<string> = ["Revolutionary", "Rebellious", "Opposed", "Unrested", "Populist",  "Neutral", "Establishment", "Elitist", "Loyal", "Aristocratic", "Enslaved"]
+let alle_array: Array<string> = ["Anarchista", "Rewolucjonista", "Antymoderacjonista", "Proantymoderacjonizm", "Liberalista",  "Centrum", "Antyantymoderacjonizm", "Fanatyk Moderacji", "Promoderacjonista", "Autorytarysta", "Dyktator"]
 //Experience axis (Veteran vs Newbie)
 let expr_array: Array<string> = ["Primordial", "Ancient", "Historical", "Former", "Time-honored", "Reminiscent", "Apprentice", "Contemporary", "Missed Out", "Uninformed", "Novice"]
 //Personality axis (Wholesome vs Edgy)
@@ -21,7 +21,7 @@ let fedp_array: Array<string> = ["Glowie", "Bigoted", "Prejudicial", "Exclusive"
 //Actions axis (Behaving vs Misbehaving)
 let actn_array: Array<string> = ["Robotic", "Lawful", "Obedient", "Compliant", "Behaved", "Occasional",  "Tripping-up", "Unruly", "Disobedient", "Chaotic", "Criminal"]
 //Purpose axis (Artist vs Community)
-let purp_array: Array<string> = ["Maestro", "Art Hero", "Aesthetic", "Artistic Focused", "Wikiredditor", "Undecided", "Member", "Conversational", "Chatty", "Talkative", "Talentless"]    
+let purp_array: Array<string> = ["Bóg artystów", "Arcyartysta", "Artysta", "Początkujący artysta", "Fanatyk dzieł", "Neutralny", "Discordowiec", "Członek", "Nieprzepadający za dziełami", "Woli tylko czatować", "Fobia na sztukę"]    
 //Perception axis (Pleasant vs Annoying)
 let perc_array: Array<string> = ["Therapeutic", "Comforting", "Calming", "Chill", "Tolerable", "Ambivalent", "Uncomforting", "Pestering", "Obnoxious", "Infuriating", "Proof that God is testing us"]
 //Comedy axis (Funny vs Unfunny)

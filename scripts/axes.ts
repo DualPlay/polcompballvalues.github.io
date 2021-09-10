@@ -1,7 +1,7 @@
 //Seriousposting axis (Sincerity vs Irony)
 let spos_array: Array<string> = ["Austere", "Ascetic", "Sombre", "Genuine", "Rational", "Sober", "Lighthearted", "Memey", "Playful", "Silly", "Incoherent"]
 //Allegiance axis (Jannyphobe vs Jannyphile)
-let alle_array: Array<string> = ["Anarchista", "Rewolucjonista", "Antymoderacjonista", "Proantymoderacjonizm", "Liberalista",  "Centrum", "Antyantymoderacjonizm", "Fanatyk Moderacji", "Promoderacjonista", "Autorytarysta", "Dyktator"]
+let alle_array: Array<string> = ["Dyktator", "Autorytarysta", "Promoderacjonista", "Fanatyk Moderacji", "Antyantymoderacjonizm",  "Centrum", "Liberalista", "Fobia na administrację", "Antymoderacjonista", "Rewolucjonista", "Anarchista"];
 //Experience axis (Veteran vs Newbie)
 let expr_array: Array<string> = ["Primordial", "Ancient", "Historical", "Former", "Time-honored", "Reminiscent", "Apprentice", "Contemporary", "Missed Out", "Uninformed", "Novice"]
 //Personality axis (Wholesome vs Edgy)
@@ -17,7 +17,7 @@ let sani_array: Array<string> = ["Too Normal", "Bland", "Healthy", "Sound Minded
 //Relationship axis (Liked vs Disliked)
 let rela_array: Array<string> = ["Venerated", "Loved", "Admired", "Appreciated", "Respected", "No Opinion", "Mixed Feelings", "Unwanted", "Disliked", "Hated", "Abhorred"]
 //Fedposting axis (Discriminatory vs Inclusive)
-let fedp_array: Array<string> = ["Glowie", "Bigoted", "Prejudicial", "Exclusive", "Biased", "Varying", "Open-minded", "Tolerant", "Accepting", "Cosmopolitan", "SJW"]
+let fedp_array: Array<string> = ["Zbyt bardzo uzależniony", "Uzależniony od rasizmu", "Rasista", "Toxic", "Fan Rasizmu", "Neutralność", "Antyrasista", "Pacyfista", "Nie przepada za rasizmem", "Fobia na Toksyczność", "Niszczyć Rasistów"]
 //Actions axis (Behaving vs Misbehaving)
 let actn_array: Array<string> = ["Robotic", "Lawful", "Obedient", "Compliant", "Behaved", "Occasional",  "Tripping-up", "Unruly", "Disobedient", "Chaotic", "Criminal"]
 //Purpose axis (Artist vs Community)
